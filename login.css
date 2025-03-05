@@ -1,0 +1,94 @@
+.log{
+    margin-top: 20px;
+    background-color:rgb(16, 116, 247);
+    color: aliceblue;
+    border-radius: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+.fl{
+    border-radius: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.sub{
+    border-radius:50px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(16, 116, 247);
+    color: aliceblue;
+}
+
+.input{
+    border-radius: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.input1{
+    border-radius: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;   
+    margin-left: 40px;
+}
+
+.cn{
+    float: inline-start;
+    margin-left: 10px;
+    border-radius: 50px;
+    background-color:rgb(16, 116, 247);
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cm{
+    float: inline-start;
+    margin-left: 150px;
+    border-radius: 50px;
+    background-color:rgb(16, 116, 247);
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cc{
+    float: inline-start;
+    margin-left: 150px;
+    border-radius: 50px;
+    background-color:rgb(16, 116, 247);
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.co{
+    float: inline-start;
+    margin-left: 150px;
+    border-radius: 50px;
+    background-color:rgb(16, 116, 247);
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
